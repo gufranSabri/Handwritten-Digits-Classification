@@ -4,7 +4,7 @@ Structural features were extracted using OpenCV.
 Features were fed to various machine learning models; highest accuracy yielded was 98.10%
 
 ### Initial Dataset
-![Initial Dataset](ProjectImages/numberOG.jpg)
+![Initial Dataset](ProjectImages/numberOg.jpg)
 
 
 ### Sample Structural Feature Extraction
